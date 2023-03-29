@@ -36,13 +36,13 @@ const userQuestions = () => {
       },
       {
         type: 'editor',
-        name: 'contrib',
+        name: 'Contributing',
         message: 'Next step -- enter CONTRIBUTION guidelines for your project after pressing [Enter].  Save your work so you can twerk.',
       },
       {
         type: 'list',
         name: 'license',
-        message: 'Tired of me bossing you around?  Just a few more questions. Please select a license for your project.',
+        message: 'Tired of me bossing you around?  Just a few more questions left.',
         choices: ['Apache License 2.0', 
           'BSD 3-Clause \'New\' or \'Revised\' license', 
           'BSD 2-Clause \'Simplified\' or \'FreeBSD\' license', 
