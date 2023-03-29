@@ -17,32 +17,32 @@ const userQuestions = () => {
       {
         type: 'editor',
         name: 'description',
-        message: 'Next step: Enter a DESCRIPTION of your project.  Press [Enter] to open your default editor.  Please save before closing.',
+        message: 'Next step -- enter a DESCRIPTION of your project after pressing [Enter]. Please save before closing.',
       },
       {
         type: 'editor',
         name: 'tableofcontents',
-        message: 'Next step: Enter a TABLE OF CONTENTS for your project.  Press [Enter] to open your default editor. Save, save, save.',
+        message: 'Next step -- enter a TABLE OF CONTENTS for your project after pressing [Enter].  Save before you close!',
       },
       {
         type: 'editor',
         name: 'install',
-        message: 'Next step: Enter INSTALLATION instructions for your project.  Press [Enter] to open your default editor.  Save a penny and your project.',
+        message: 'Next step -- enter INSTALLATION instructions for your project after pressing [Enter].  Save a penny AND your project!',
       },
       {
         type: 'editor',
         name: 'usage',
-        message: 'Next step: Enter USAGE instructions for your project.  Press [Enter] to open your default editor. Save now so you do not cry later.',
+        message: 'Next step -- enter USAGE instructions for your project after pressing [Enter].  Save now so you do not cry later.',
       },
       {
         type: 'editor',
         name: 'contrib',
-        message: 'Next step: Enter CONTRIBUTION guidelines for your project.  Press [Enter] to open your default editor. Save your work so you can twerk.',
+        message: 'Next step -- enter CONTRIBUTION guidelines for your project after pressing [Enter].  Save your work so you can twerk.',
       },
       {
         type: 'list',
         name: 'license',
-        message: 'Tired of me bossing you around yet?  Please select a license for your project',
+        message: 'Tired of me bossing you around?  Just a few more questions. Please select a license for your project.',
         choices: ['Apache License 2.0', 
           'BSD 3-Clause \'New\' or \'Revised\' license', 
           'BSD 2-Clause \'Simplified\' or \'FreeBSD\' license', 
@@ -56,12 +56,12 @@ const userQuestions = () => {
       {
         type: 'input',
         name: 'gitHub',
-        message: 'Please tell me your GitHub Username.',
+        message: 'Please tell me your GitHub username.',
       },      
       {
         type: 'input',
         name: 'email',
-        message: 'Finally, what is your email address? Ps It was fun getting to know you!',
+        message: 'Final question (I swear), what is your email address? Ps It was fun getting to know you!',
       },
     ]);
 };
