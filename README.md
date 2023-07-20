@@ -3,8 +3,10 @@
 ```sh
 
 A quick and easy README file generator using a command-line application. This allows the project creator to devote more time working on the project.
-
 ```
+<br> <!-- Double line break for creating a line break -->
+
+<p align="center"><a href="https://drive.google.com/file/d/15utNK79ylMmem69gUqALEj_OoDC4zDhS/view">CLICK HERE FOR THE WALKTHROUGH</a>.</p>
 
 ## 💻 Installation
 
@@ -17,7 +19,7 @@ A quick and easy README file generator using a command-line application. This al
 ```sh
 🤩 Below is a screenshot of what the user can expect.
 ```
-![Screenshot of the final product](XXXXXXXXX)
+![Sample README.md](/Develop/utils/readme_screenshot.png)
 
 ## ⚙️ Testing
 
