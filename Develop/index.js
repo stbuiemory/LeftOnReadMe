@@ -22,7 +22,7 @@ const userQuestions = () => {
       {
         type: 'editor',
         name: 'tableofcontents',
-        message: 'Next step -- enter a TABLE OF CONTENTS for your project after pressing [Enter].  Save before you close!',
+        message: 'Next step -- enter a TABLE OF CONTENTS for your project after pressing [Enter].  File -> Save -> Close the Editor!',
       },
       {
         type: 'editor',
@@ -36,8 +36,13 @@ const userQuestions = () => {
       },
       {
         type: 'editor',
+        name: 'Testing',
+        message: 'Next step -- enter TESTING guidelines for your project after pressing [Enter].  Save your work so you can twerk.',
+      },
+      {
+        type: 'editor',
         name: 'Contributing',
-        message: 'Next step -- enter CONTRIBUTION guidelines for your project after pressing [Enter].  Save your work so you can twerk.',
+        message: 'Next step -- enter CONTRIBUTION guidelines for your project after pressing [Enter].  Save your data to make it matter.',
       },
       {
         type: 'list',

@@ -57,8 +57,8 @@ const generateMarkdown = (data) => {
  
  * [Installation](#installation)
  * [Usage](#usage)
- * [Contributing](#Contributing)
  * [Tests](#Tests)
+ * [Contributing](#Contributing)
  * [License](#License)
  * [Questions](#Questions)
  
@@ -67,12 +67,12 @@ const generateMarkdown = (data) => {
  
  ## Usage
  ${data.usage}
+
+ ## Tests
+ ${data.contrib}
  
  ## Contributing
  ${data.description}
- 
- ## Tests
- ${data.contrib}
  
  ## License
 ${licenseSection}
@@ -82,7 +82,7 @@ ${licenseLink}
  ## Questions
  You can view my GitHub profile at https://github.com/${data.gitHub}
  
- If you have additonal queations you can email me at ${data.email} `;
+ If you have additonal questions you can email me at ${data.email} `;
 }
 
 //export the generateMarkdown function
