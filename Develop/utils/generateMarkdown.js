@@ -69,10 +69,10 @@ const generateMarkdown = (data) => {
  ${data.usage}
 
  ## Tests
- ${data.contrib}
+ ${data.tests}
  
  ## Contributing
- ${data.description}
+ ${data.contrib}
  
  ## License
 ${licenseSection}

@@ -36,12 +36,12 @@ const userQuestions = () => {
       },
       {
         type: 'editor',
-        name: 'Testing',
+        name: 'tests',
         message: 'Next step -- enter TESTING guidelines for your project after pressing [Enter].  Save your work so you can twerk.',
       },
       {
         type: 'editor',
-        name: 'Contributing',
+        name: 'contrib',
         message: 'Next step -- enter CONTRIBUTION guidelines for your project after pressing [Enter].  Save your data to make it matter.',
       },
       {
