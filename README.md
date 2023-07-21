@@ -2,7 +2,8 @@
 
 ```sh
 
-A quick and easy README file generator using a command-line application. This allows the project creator to devote more time working on the project.
+A quick and easy README file generator using a command-line application.
+This allows the project creator to devote more time working on the project.
 ```
 <br> <!-- Double line break for creating a line break -->
 
@@ -12,7 +13,8 @@ A quick and easy README file generator using a command-line application. This al
 
 ```sh
 🔹 Create a Readme generator that accepts user input
-🔹 Users will create a high-quality, professional README.md with the user's project title and sections for Description, Table of Contents, Installation, Usage, Testing, Contributors, License, and Questions
+🔹 Users will create a high-quality, professional README.md with the user's project title and sections
+for Description, Table of Contents, Installation, Usage, Testing, Contributors, License, and Questions
 ```
 ## 🎬 Usage
 
@@ -24,8 +26,11 @@ A quick and easy README file generator using a command-line application. This al
 ## ⚙️ Testing
 
 ```sh
-🔹 Begin by running npm i.  Thereafter, node index.js.  You will then see the command line prompts needed to create your README file.
-🔹 During each prompt, a new window will pop-up (Windows NotePad).  Please input the required information. If you would like your README to have bullets or numbering, then please include in NotePad.  Please file, save, and close before returning to the command-line prompts.
+🔹 Begin by running npm i.  Thereafter, node index.js.  You will then see the command line prompts needed to
+create your README file.
+🔹 During each prompt, a new window will pop-up (Windows NotePad).  Please input the required information.
+If you would like your README to have bullets or numbering, then please include in NotePad.  Please file, save,
+and close before returning to the command-line prompts.
 ```
 
 ## 🤝 Contributors
