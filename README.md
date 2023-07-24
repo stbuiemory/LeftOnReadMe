@@ -25,13 +25,15 @@ for Description, Table of Contents, Installation, Usage, Testing, Contributors, 
 
 ## ⚙️ Testing
 
-```sh
-🔹 Begin by running npm i.  Thereafter, node index.js.  You will then see the command line prompts needed to
-create your README file.
-🔹 During each prompt, a new window will pop-up (Windows NotePad).  Please input the required information.
-If you would like your README to have bullets or numbering, then please include in NotePad.  Please file, save,
-and close before returning to the command-line prompts.
-```
+<div style="text-align: justify;">
+  
+🔹 Begin by running npm i.  Thereafter, node index.js.  You will then see the command line prompts 
+  needed to create your README file.
+🔹 During each prompt, a new window will pop-up (Windows NotePad).  Please input the required 
+  information. If you would like your README to have bullets or numbering, then please include in NotePad.  
+  Please file, save, and close before returning to the command-line prompts.
+  
+</div>
 
 ## 🤝 Contributors
 
